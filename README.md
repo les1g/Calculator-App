@@ -2,6 +2,8 @@
 
 This project is a simple Python calculator built with Tkinter. It runs locally on your machine and provides basic arithmetic operations through a graphical user interface. Its purpose is to demonstrate how Python’s core logic can be connected to a desktop UI, making calculations accessible and easy to use.
 
+<img width="325" height="453" alt="image" src="https://github.com/user-attachments/assets/9ecbe7c2-935d-468f-b924-21f02c026930" />
+
 **Core Module**: Handles the main calculation logic (addition, subtraction, multiplication, division).  
 
 **GUI Module**: Implements the Tkinter interface for user interaction.  

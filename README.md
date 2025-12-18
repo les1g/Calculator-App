@@ -19,7 +19,8 @@ This project helped me understand how to separate core logic from a graphical in
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/les1g/Calculator.git
+git clone https://github.com/les1g/Calculator-App.git
+cd Calculator-App
 ```
 
 2. Create a virtual environment:  
